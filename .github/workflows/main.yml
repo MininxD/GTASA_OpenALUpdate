@@ -43,5 +43,5 @@ jobs:
     - name: Upload the mod!
       uses: actions/upload-artifact@v3
       with:
-        name: GTASAOpenAL.zip
+        name: GTASA_OpenAL.zip
         path: ./libs
